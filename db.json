@@ -1,0 +1,38 @@
+{
+  "alunos": [
+    {
+      "id": 1,
+      "nome": "Maria Silva",
+      "email": "maria@email.com",
+      "cpf": "123.456.789-00",
+      "data_nascimento": "2007-05-14",
+      "endereco": "Rua das Flores, 123 - Pau dos Ferros/RN"
+    },
+    {
+      "nome": "Charles",
+      "email": "charles@gmail.com",
+      "cpf": "123.456.789-10",
+      "data_nascimento": "2012-12-10",
+      "endereco": "Rua Tal",
+      "id": 2
+    }
+  ],
+  "professores": [
+    {
+      "id": 1,
+      "nome": "Carlos Oliveira",
+      "email": "carlos@escola.com",
+      "cpf": "987.654.321-00",
+      "disciplina": "Programação para Internet",
+      "data_admissao": "2022-03-01"
+    },
+    {
+      "nome": "Antônio",
+      "email": "toin@gmail.com",
+      "cpf": "123.321.213-12",
+      "disciplina": "Matemática",
+      "data_admissao": "1991-12-06",
+      "id": 2
+    }
+  ]
+}
